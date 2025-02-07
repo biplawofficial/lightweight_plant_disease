@@ -1,4 +1,4 @@
-# Points to be noted
+# Overview 
 - data_utils_.py contains the code for splitting the dataset into appropriate folders, it also contains some functions to visualize the data
 - train.py contains the main code for training as well as testing it contains the training code testing code model preprocessing as well as all the hyperparameters
 - train1_se.py contains the code with SE block incorporated with the base model for better feature extraction.
